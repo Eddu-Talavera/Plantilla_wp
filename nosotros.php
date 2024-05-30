@@ -22,19 +22,16 @@
 
 <div class="page-content">
     <div class="container-fluid">
-
         <div class="row">
-            <div class="col-sm-12 text-center">
-                <h1 style="color:red">Sobre <span style="color:black">Nosotros</span></h1>
-            </div>
-        </div><!-- end col -->
+        </div>
         <hr>
         <div class="col-lg-12">
             <div class="row">
                 <div class="col-md-4">
                 <img src="img/qq1.jpg" class="img-fluid" alt="Imagen de Nosotros">
             </div>
-            <div class="col-md-8">
+            <div class="col-md-6">                
+                <h1 style="color:red">Sobre <span style="color:black">Nosotros</span></h1>
                 <p>
                     Bienvenidos a nuestra página web. Somos una marca de moda casual, urbana y elegante. Seguimos la tendencia, pero la adaptamos a nuestro estilo. Las colecciones de Bassika destacan por su paleta de colores elegantes y atemporales. Estos colores versátiles te permiten crear combinaciones únicas, adaptándose a diferentes estaciones y ocasiones.
 
